@@ -13,7 +13,7 @@ public class PlayerController : MonoBehaviour
 
     public float cameraOffsetY = 2;
     public float cameraOffsetZ = -6;
-    public float movementSpeed = 20;
+    public float movementSpeed = 10;
 
     // Start is called before the first frame update
     void Start()
